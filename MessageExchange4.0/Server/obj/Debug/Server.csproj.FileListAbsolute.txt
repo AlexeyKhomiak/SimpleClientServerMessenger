@@ -1,0 +1,12 @@
+G:\ALL\PROGRAMING\Network programming\DZ1\MessageExchange3.0\Server\bin\Debug\Server.exe.config
+G:\ALL\PROGRAMING\Network programming\DZ1\MessageExchange3.0\Server\bin\Debug\Server.exe
+G:\ALL\PROGRAMING\Network programming\DZ1\MessageExchange3.0\Server\bin\Debug\Server.pdb
+G:\ALL\PROGRAMING\Network programming\DZ1\MessageExchange3.0\Server\obj\Debug\Server.exe
+G:\ALL\PROGRAMING\Network programming\DZ1\MessageExchange3.0\Server\obj\Debug\Server.pdb
+G:\ALL\PROGRAMING\Network programming\DZ1\MessageExchange3.0\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+G:\ALL\PROGRAMING\Network programming\DZ1\MessageExchange4.0\Server\bin\Debug\Server.exe.config
+G:\ALL\PROGRAMING\Network programming\DZ1\MessageExchange4.0\Server\obj\Debug\Server.exe
+G:\ALL\PROGRAMING\Network programming\DZ1\MessageExchange4.0\Server\obj\Debug\Server.pdb
+G:\ALL\PROGRAMING\Network programming\DZ1\MessageExchange4.0\Server\bin\Debug\Server.exe
+G:\ALL\PROGRAMING\Network programming\DZ1\MessageExchange4.0\Server\bin\Debug\Server.pdb
+G:\ALL\PROGRAMING\Network programming\DZ1\MessageExchange4.0\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
